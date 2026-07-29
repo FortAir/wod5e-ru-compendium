@@ -30,5 +30,8 @@
       "system": "wod5e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/FortAir/wod5e-ru-compendium",
+  "manifest": "https://raw.githubusercontent.com/FortAir/wod5e-ru-compendium/main/module.json",
+  "download": "https://github.com/FortAir/wod5e-ru-compendium/releases/download/v0.1.0/wod5e-ru-compendium.zip"
 }
