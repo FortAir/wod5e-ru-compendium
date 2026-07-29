@@ -1,0 +1,34 @@
+{
+  "id": "wod-5e-or-berloga-andreya-",
+  "title": "WoD 5e | Берлога Андрея 🐺",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Русскоязычный компендиум материалов по Миру Тьмы Пятой Редакции.</p>",
+  "authors": [
+    {
+      "name": "Андрей",
+      "url": "https://vk.ru/berlogagm",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "wod-5e-or-berloga-andreya-",
+      "label": "WoD 5e | Берлога Андрея 🐺",
+      "path": "packs/wod-5e-or-berloga-andreya-",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wod5e",
+      "flags": {}
+    }
+  ]
+}
