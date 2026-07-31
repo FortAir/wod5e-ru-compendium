@@ -1,7 +1,7 @@
 {
   "id": "wod-5e-or-berloga-andreya-",
   "title": "WoD 5e | Берлога Андрея 🐺",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -19,10 +19,22 @@
   },
   "packs": [
     {
-      "name": "wod-5e-or-berloga-andreya-",
-      "label": "WoD 5e | Берлога Андрея 🐺",
-      "path": "packs/wod-5e-or-berloga-andreya-",
+      "name": "vampiry-maskarad",
+      "label": "Вампиры: Маскарад",
+      "path": "packs/vampiry-maskarad",
       "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "vampiry-maskarad-tipy-koterij",
+      "label": "Вампиры: Маскарад (Типы Котерий)",
+      "path": "packs/vampiry-maskarad-tipy-koterij",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -33,5 +45,5 @@
   ],
   "url": "https://github.com/FortAir/wod5e-ru-compendium",
   "manifest": "https://raw.githubusercontent.com/FortAir/wod5e-ru-compendium/main/module.json",
-  "download": "https://github.com/FortAir/wod5e-ru-compendium/releases/download/0.1.6/wod-5e-or-berloga-andreya-0.1.6.zip"
+  "download": "https://github.com/FortAir/wod5e-ru-compendium/releases/download/0.1.7/wod-5e-or-berloga-andreya-0.1.7.zip"
 }
